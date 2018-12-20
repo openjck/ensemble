@@ -21,6 +21,12 @@
                     "menuTitle": "Hardware",
                     "source": "https://data.firefox.com/datasets/desktop/hardware",
                     "supportsRegions": false
+                },
+                {
+                    "key": "redash",
+                    "menuTitle": "Redash",
+                    "source": "http://localhost:3000/datasets/redash-example",
+                    "supportsRegions": false
                 }
             ]
         },
