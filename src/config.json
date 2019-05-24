@@ -3,13 +3,13 @@
         {
             "key": "user-activity",
             "menuTitle": "User Activity",
-            "source": "https://data.firefox.com/datasets/desktop/user-activity",
+            "source": "https://s3.amazonaws.com/openjck-ensemble-armagaddon-scenario-1/desktop/user-activity",
             "supportsRegions": true
         },
         {
             "key": "usage-behavior",
             "menuTitle": "Usage Behavior",
-            "source": "https://data.firefox.com/datasets/desktop/usage-behavior",
+            "source": "https://s3.amazonaws.com/openjck-ensemble-armagaddon-scenario-1/desktop/usage-behavior",
             "supportsRegions": true
         },
         {
