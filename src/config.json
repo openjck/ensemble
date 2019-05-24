@@ -15,7 +15,7 @@
         {
             "key": "hardware",
             "menuTitle": "Hardware",
-            "source": "https://data.firefox.com/datasets/desktop/hardware",
+            "source": "https://s3.amazonaws.com/openjck-ensemble-armagaddon-scenario-1/desktop/hardware",
             "supportsRegions": false
         }
     ],
